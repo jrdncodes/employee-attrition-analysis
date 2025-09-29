@@ -26,7 +26,7 @@ df['WorkLifeBalance'] = df['WorkLifeBalance'].map(worklife_map)
 # Basic statistical analysis
 print("Average Age: {:.2f}".format(df['Age'].mean()))
 print("Median Monthly Income:", df['MonthlyIncome'].median())
-print("Years at company:", df['YearsAtCompany'].std())
+print("Years Working at company:", df['YearsAtCompany'].std())
 
 # Attrition counts
 attrition_counts = df['Attrition'].value_counts()
