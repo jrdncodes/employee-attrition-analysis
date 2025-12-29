@@ -12,3 +12,6 @@ IBM HR dataset from Kaggle, 1470 rows, 35 columns
 Skills/Tools Used:
 Python (pandas, matplotlib/seaborn)
 Tableau for dashboards
+
+Status
+This project is an ongoing learning project focused on developing practical data analysis and visualization skills.
