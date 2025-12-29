@@ -13,5 +13,5 @@ Skills/Tools Used:
 Python (pandas, matplotlib/seaborn)
 Tableau for dashboards
 
-Status
+Status:
 This project is an ongoing learning project focused on developing practical data analysis and visualization skills.
