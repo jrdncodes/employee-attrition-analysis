@@ -13,5 +13,10 @@ Skills/Tools Used:
 Python (pandas, matplotlib/seaborn)
 Tableau for dashboards
 
+## Next Steps
+- Deeper feature-level analysis
+- Statistical comparisons between attrition groups
+- Predictive modeling to identify high-risk employe
+
 Status:
 This project is an ongoing learning project focused on developing practical data analysis and visualization skills.
