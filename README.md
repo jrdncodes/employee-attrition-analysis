@@ -69,8 +69,25 @@ Insights were translated into clear business interpretations, focusing on retent
 ## Next Steps
 - Conduct statistical tests to compare attrition vs non-attrition groups  
 - Build predictive models (e.g., logistic regression) to identify high-risk employees  
-- Export cleaned data to Tableau for interactive dashboards  
 - Apply feature engineering to improve modeling performance  
+
+## Tableau Dashboard (Work in Progress)
+
+This project includes an interactive Tableau dashboard exploring employee attrition patterns.
+
+The dashboard currently focuses on:
+- Overall attrition rate (KPI)
+- Attrition by age group, department, and job role
+- Overtime and satisfaction-related attrition patterns
+- Department-level filtering for interactive exploration
+
+⚠️ Note: This dashboard is a work in progress.  
+Future improvements include deeper segmentation, interaction analysis, and stronger narrative framing.
+
+<img width="1356" height="837" alt="image" src="https://github.com/user-attachments/assets/76502ace-1ba1-4821-ad32-1271828ff315" />
+
+
+🔗 Tableau Public link: (https://public.tableau.com/app/profile/jordan.liew/viz/Employee-Attrition-Analysis/WhyareEmployeesLeaving?publish=yes)
 
 
 ## Project Status
