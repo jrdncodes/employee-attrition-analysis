@@ -19,7 +19,7 @@ The analysis focuses on understanding *who is leaving and why*, using explorator
 ## Tools used
 - **Python:** pandas, numpy, matplotlib, seaborn  
 - **Environment:** Jupyter Notebook, VS Code  
-- **Visualization (Planned):** Tableau
+- **Visualization:** Tableau
 
 
 ## Methodology
